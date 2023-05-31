@@ -24,3 +24,5 @@ Requiremnts:
         6 images displayed 3 wide and 2 down
             A label for each image
             Clicking on the image opens the source of that image in a new window
+    Page 5
+        Add LinkedIn Profile
